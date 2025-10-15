@@ -56,11 +56,10 @@ project_folder/
 
 ---
 
+## 🔖 Badges
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
 
 
 
